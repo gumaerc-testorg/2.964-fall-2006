@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4002e54e-c95d-3246-5fdc-faaaf30cdfaf
 resourcetype: Document
 title: paper2_pb_Appnda.pdf
 uid: efc0c6ad-7bae-413c-f5ee-a2416f81c97b

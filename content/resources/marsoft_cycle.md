@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4d0ce37c-ed81-5be3-8ee0-041c5faeb2bf
 resourcetype: Document
 title: marsoft_cycle.pdf
 uid: 5d0f0bdc-412c-8c46-85e0-78456d615f1c

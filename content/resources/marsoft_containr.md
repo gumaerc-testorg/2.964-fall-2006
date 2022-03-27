@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4d0ce37c-ed81-5be3-8ee0-041c5faeb2bf
 resourcetype: Document
 title: marsoft_containr.pdf
 uid: 7eeff492-f7cc-d317-b1e1-8348df62c45b

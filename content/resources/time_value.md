@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4d0ce37c-ed81-5be3-8ee0-041c5faeb2bf
 resourcetype: Document
 title: time_value.pdf
 uid: 2d913129-1fff-195d-6fef-6a3a1399998c
