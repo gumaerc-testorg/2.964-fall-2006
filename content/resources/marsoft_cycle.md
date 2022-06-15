@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Summary of topics covered in the lecture.
-file: /media/courses/2-964-economics-of-marine-transportation-industries-fall-2006/5d0f0bdc412c8c4685e078456d615f1c_marsoft_cycle.pdf
+file: /courses/2-964-economics-of-marine-transportation-industries-fall-2006/5d0f0bdc412c8c4685e078456d615f1c_marsoft_cycle.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: marsoft_cycle.pdf
 uid: 5d0f0bdc-412c-8c46-85e0-78456d615f1c
 ---
+Summary of topics covered in the lecture.
+

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains prerequisites, textbook and readings, assignment
+  details, grading policy and calendar of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -19,7 +21,7 @@ Prerequisites
 Textbooks and Readings
 ----------------------
 
-There is no required textbook for this course. Students are assigned various [readings]({{< baseurl >}}/pages/readings) for each class session.
+There is no required textbook for this course. Students are assigned various {{% resource_link c06ce4b4-36ff-517c-893c-8710040a36af "readings" %}} for each class session.
 
 Assignments
 -----------
