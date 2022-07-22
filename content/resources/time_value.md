@@ -5,6 +5,7 @@ file: /courses/2-964-economics-of-marine-transportation-industries-fall-2006/2d9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: time_value.pdf
 uid: 2d913129-1fff-195d-6fef-6a3a1399998c
 ---
 Summary of topics covered in the lecture.
-

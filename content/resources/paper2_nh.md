@@ -6,6 +6,7 @@ file: /courses/2-964-economics-of-marine-transportation-industries-fall-2006/20a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: paper2_nh.pdf
 uid: 20ab48e3-c693-2e23-28e2-a0631010f479
 ---
 This resource contains information on iron ore transportation in capesize bulk carriers.
-

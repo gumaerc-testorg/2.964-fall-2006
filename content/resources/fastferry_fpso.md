@@ -5,6 +5,7 @@ file: /courses/2-964-economics-of-marine-transportation-industries-fall-2006/1a6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: fastferry_fpso.pdf
 uid: 1a650c14-6b22-3d11-8928-47afff890e04
 ---
 Summary of topics covered in the lecture.
-

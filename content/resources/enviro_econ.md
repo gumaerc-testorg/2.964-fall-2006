@@ -5,6 +5,7 @@ file: /courses/2-964-economics-of-marine-transportation-industries-fall-2006/2b0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: enviro_econ.pdf
 uid: 2b035c57-f2e6-dae7-d6b1-3fa13a3991b1
 ---
 Summary of topics covered in the lecture.
-

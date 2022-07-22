@@ -5,6 +5,7 @@ file: /courses/2-964-economics-of-marine-transportation-industries-fall-2006/7b8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: nipa.pdf
 uid: 7b8c3736-70ba-24b9-56f7-5d0b7044762f
 ---
 Summary of topics covered in the lecture.
-

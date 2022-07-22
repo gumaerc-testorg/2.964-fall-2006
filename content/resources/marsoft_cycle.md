@@ -5,6 +5,7 @@ file: /courses/2-964-economics-of-marine-transportation-industries-fall-2006/5d0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: marsoft_cycle.pdf
 uid: 5d0f0bdc-412c-8c46-85e0-78456d615f1c
 ---
 Summary of topics covered in the lecture.
-
