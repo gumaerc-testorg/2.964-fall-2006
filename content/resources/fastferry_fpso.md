@@ -2,6 +2,7 @@
 content_type: resource
 description: Summary of topics covered in the lecture.
 file: /courses/2-964-economics-of-marine-transportation-industries-fall-2006/1a650c146b223d11892847afff890e04_fastferry_fpso.pdf
+file_size: 90351
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
