@@ -2,6 +2,7 @@
 content_type: resource
 description: Summary of topics covered in the lecture.
 file: /courses/2-964-economics-of-marine-transportation-industries-fall-2006/7eeff492f7ccd317b1e18348df62c45b_marsoft_containr.pdf
+file_size: 114709
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
