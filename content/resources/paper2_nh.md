@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on iron ore transportation in capesize
   bulk carriers.
 file: /courses/2-964-economics-of-marine-transportation-industries-fall-2006/20ab48e3c6932e2328e2a0631010f479_paper2_nh.pdf
+file_size: 898317
 file_type: application/pdf
 learning_resource_types:
 - Assignments
