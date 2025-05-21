@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains detailed information on capesize bulk carriers.
-file: /ol-ocw-studio-app/courses/2-964-economics-of-marine-transportation-industries-fall-2006/0ebad6fb8d23bb9a973eb9a9918a9d1f_paper2_nh_slides.pdf
+file: /courses/2-964-economics-of-marine-transportation-industries-fall-2006/0ebad6fb8d23bb9a973eb9a9918a9d1f_paper2_nh_slides.pdf
 file_size: 707623
 file_type: application/pdf
 learning_resource_types:
