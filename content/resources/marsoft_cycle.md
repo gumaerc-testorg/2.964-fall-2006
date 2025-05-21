@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Summary of topics covered in the lecture.
-file: /ol-ocw-studio-app/courses/2-964-economics-of-marine-transportation-industries-fall-2006/5d0f0bdc412c8c4685e078456d615f1c_marsoft_cycle.pdf
+file: /courses/2-964-economics-of-marine-transportation-industries-fall-2006/5d0f0bdc412c8c4685e078456d615f1c_marsoft_cycle.pdf
 file_size: 315716
 file_type: application/pdf
 learning_resource_types:
