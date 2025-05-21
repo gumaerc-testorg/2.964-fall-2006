@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/2-964-economics-of-marine-transportation-industries-fall-2006/09e8c879385af3acdc0e000ab66b639a_chp_containership.jpg
+file: /courses/2-964-economics-of-marine-transportation-industries-fall-2006/09e8c879385af3acdc0e000ab66b639a_chp_containership.jpg
 file_size: 55782
 file_type: image/jpeg
 image_metadata:
