@@ -108,7 +108,7 @@ Macroeconomics: National Income Accounting
 
 Daly, H. E. _Beyond Growth_. Boston MA: Beacon Press, 1997, chapters 6 and 7. ISBN: 9780807047095.
 
-Bureau of Economic Analysis, U.S. Department of Commerce. "[Integrated Economic and Environmental Satellite Accounts](https://apps.bea.gov/scb/account_articles/national/0494od/maintext.htm)." April 1994.
+Bureau of Economic Analysis, U.S. Department of Commerce. "{{% resource_link "fb95b351-e8d4-4073-8454-25404c4177ad" "Integrated Economic and Environmental Satellite Accounts" %}}." April 1994.
 
 
 {{< tdclose >}}
@@ -170,7 +170,7 @@ Ship Charter/Purchase Decisions (Guest Lecture by Sydney Levine, Shipping Intell
 Shipping and the Environment: Tanker Spills, Right Whales
 {{< tdclose >}}
 {{< tdopen >}}
-Committee on Oil Pollution Act of 1990 (Section 4115) Implementation Review, National Research Council. [_Double-Hull Tanker Legislation: An Assessment of the Oil Pollution Act of 1990_](http://www.nap.edu/openbook/0309063701/html/). Washington, DC: The National Academies Press, 1997. ISBN: 9780309063708.
+Committee on Oil Pollution Act of 1990 (Section 4115) Implementation Review, National Research Council. {{% resource_link "9451d986-53ad-4c28-8228-e07925c8137a" "_Double-Hull Tanker Legislation: An Assessment of the Oil Pollution Act of 1990_" %}}. Washington, DC: The National Academies Press, 1997. ISBN: 9780309063708.
 {{< tdclose >}}
 
 {{< trclose >}}
